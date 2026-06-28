@@ -11,4 +11,3 @@
 
 ### 📖 Fejezetek (Kattints az olvasáshoz):
 1. [1. Fejezet: Klasszikus AMO szabványok](01-amo-szabvanyok.md)
-2. [2. Fejezet: Tradi és saját mérések](02-sajat-meresek.md)
