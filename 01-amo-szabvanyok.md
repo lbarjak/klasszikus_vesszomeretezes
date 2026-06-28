@@ -123,7 +123,6 @@ Tehát a favesszős 1.00 --> karbon **825-ös** lenne (125 gn heggyel).
 ## Saját mérések
 
 ### Saját mérés Skylon 1000-es vesszőn
-*(Pontatlan, rövidebb mint 26" és a tolómérős mérés sem pontos)*:
 * 26" 1 kg (2.205#) súllyal a lehajlás 24.35 mm, 0.96"
 * 1.94#-ra átszámítva: 0.88 * 0.96 = 0.844"
 * 28"-ra átszámítva: 26^3 / 28^3 = 0.8; 0.844 / 0.8 = **1055**
