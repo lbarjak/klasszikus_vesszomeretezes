@@ -4,6 +4,7 @@
 Bár ez a szabvány már majdnem 70 éves, sok helyen használják.
 Sok a keveredés, félreértés.  
 A fa vesszőket a készítőik nem egységesen jelölik, a spine értéket általában nem adják meg, például 1, 2, 3, stb. vagy I., II., III., stb. jelölést kapnak és megmondják, náluk melyik jelőlésű vessző hány fontos íjhoz lesz jó.  
+Nem mindig egyértelmű, hogy a tradicionális íjakra megadott 28" húzáshossz AMO vagy nettó érték, ezért az ehhez megadott fontérték sem egyértelmű.  
 A fa vesszők régi szabvány szerinti spine értékei nem azonosak a ma használt értékekkel, amik főleg a karbon vesszőkre vonatkoznak.
 
 ### A füzet tartalma:
