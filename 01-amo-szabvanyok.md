@@ -2,7 +2,7 @@
 
 Klasszikus vesszőméretezés
 
-Forrásdokumentum: [AMO Standard (PDF)](http://www.outlab.it/doc/amostd.pdf)
+Forrásdokumentum: [AMO Standard (PDF)](amostd.pdf)
 
 ---
 
@@ -129,6 +129,6 @@ Tehát a favesszős 1.00 --> karbon **825-ös** lenne (125 gn heggyel).
 
 ### Edit vesszőjével (Skylon 1000):
 * 28" 1 kg lehajlás 30 mm 1.18"
-* 1.94#-ra átszámítva: 1.18 * 1.94 / 2.205 = **1.038**
+* 1.94#-ra átszámítva: 1.18 * 1.94 / 2.205 = **1038**
 
 A mi Skylon Brixxon 1000-es vesszőink tehát kissé lágyabbak, mint a gyári jelölés, az eltérés 5% körüli.
